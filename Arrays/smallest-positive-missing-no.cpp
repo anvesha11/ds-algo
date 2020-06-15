@@ -1,3 +1,6 @@
+===========================
+	Asked In: Accolite Amazon Samsung Snapdeal
+===========================
 // Function to find missing integer in array
 // arr: input array
 // n: size of array
