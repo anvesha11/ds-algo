@@ -1,3 +1,7 @@
+===========================
+    Asked in Goldmann Sachs
+=========================
+
 bool check(vector<ll> arr, vector<ll> brr, int n) {
     //code here
     unordered_map<ll, ll> hash;
