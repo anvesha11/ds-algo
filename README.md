@@ -1,3 +1,3 @@
-# 60-day-prep
-A collection of interview questions practiced for placements by Apni Kaksha Channel and Geeskforgeeks placement prep
+# Ds-Algo prep
+A collection of interview questions practiced for placements by Geeskforgeeks placement prep
 
