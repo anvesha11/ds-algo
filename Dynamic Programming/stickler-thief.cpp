@@ -1,5 +1,5 @@
 Asked In: Amazon OYO Rooms Paytm Walmart
-=====================================
+========================================
 
 ll FindMaxSum(ll arr[], ll n)
 {
@@ -19,7 +19,7 @@ ll FindMaxSum(ll arr[], ll n)
    return max(excl_curr, incl_curr);
 }
 
-=====================
+=====================------
   easier solution
   
 ll FindMaxSum(ll arr[], ll n)
