@@ -1,5 +1,6 @@
 long long numberOfWays(int arr[],int n,int sum)
 {
+    /////
     //n is the number of coins and sum is the value we're targetting
     //this is kinda like the 0-1 knapsack problem
     //we take both possibilities (consider the coin or not)
