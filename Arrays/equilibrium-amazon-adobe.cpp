@@ -1,5 +1,5 @@
 int equilibriumPoint(long long a[], int n) {
-
+//
     // Your code here
     long long i, sum_left=0,sum_right=0;
     if(n==1)
